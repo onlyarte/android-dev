@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Lorem Ipsum</string>
+    <string name="article_subtitle">Lorem ipsum dolor sit amet</string>
+    <string name="article_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque nec nam aliquam sem et tortor consequat id. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Arcu non odio euismod lacinia at quis risus sed vulputate. Enim lobortis scelerisque fermentum dui. Integer eget aliquet nibh praesent tristique magna sit. Nec tincidunt praesent semper feugiat nibh sed pulvinar. Nulla aliquet enim tortor at auctor urna nunc. Turpis egestas pretium aenean pharetra. In vitae turpis massa sed elementum. Urna nunc id cursus metus. Porttitor lacus luctus accumsan tortor posuere ac ut consequat semper. Vitae auctor eu augue ut lectus. Lacus sed turpis tincidunt id aliquet risus feugiat. Eu sem integer vitae justo eget magna. Sed viverra tellus in hac habitasse platea dictumst vestibulum. Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Arcu dictum varius duis at consectetur lorem donec. Ultricies tristique nulla aliquet enim tortor at.
+        \n\nTortor dignissim convallis aenean et tortor at. Vulputate enim nulla aliquet porttitor lacus luctus. Lorem ipsum dolor sit amet consectetur. Eget sit amet tellus cras adipiscing enim eu. Nisl rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Id donec ultrices tincidunt arcu non sodales. Amet facilisis magna etiam tempor orci eu lobortis. Consequat semper viverra nam libero justo laoreet sit amet. In hac habitasse platea dictumst quisque. Convallis convallis tellus id interdum velit laoreet.
+        \n\nThis text was generated via www.loremipsum.io.
+    </string>
+</resources>
